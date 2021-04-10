@@ -1,0 +1,32 @@
+body
+{
+	background-color: #E8F6FD;
+}
+h1
+{
+	color: #1F79BF;
+}
+.active
+{
+	background-color: #69AFBF;
+}
+.navbar-nav > li > a
+{
+	font-weight: bold;
+	color: #1F79BF;
+}
+.coupon-nav
+{
+	background-color: #60C4D0;
+}
+.table > tbody > tr > td 
+{
+	text-align: center;
+    vertical-align: middle;
+}
+.table > tbody > tr > th 
+{
+	color: #1F79BF;
+	text-align: center;
+    vertical-align: middle;
+}
